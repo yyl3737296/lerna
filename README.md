@@ -1,1 +1,1 @@
-# lerna-webpack
+# lerna
