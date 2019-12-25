@@ -1,6 +1,6 @@
 {
   "packages": [
-    "packages/components/basic/*"
+    "packages/components/*"
   ],
   "command": {
     "bootstrap": {
