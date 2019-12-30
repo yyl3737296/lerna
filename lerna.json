@@ -2,6 +2,7 @@
   "packages": [
     "packages/components/*"
   ],
+  "npmClient": "yarn",
   "command": {
     "bootstrap": {
       "hoist": true
